@@ -1,4 +1,4 @@
-# README: BUNGIE JUMPER SIMULATION
+# README: BUNGEE JUMPER SIMULATION
 <hr style = "border:2px dotted gray"> 
 
 ### SUMMARY
